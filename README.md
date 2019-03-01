@@ -1,6 +1,7 @@
 # zixue
 
 > A Vue.js project
+自学项目
 
 ## Build Setup
 
