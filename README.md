@@ -4,7 +4,7 @@
 自学项目
 
 ## Build Setup
-
+此项目由bilibli上自学代码，仅供参考
 ``` bash
 # install dependencies
 npm install
